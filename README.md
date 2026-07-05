@@ -52,20 +52,20 @@ Please note we recently accidentally made this repo private for a moment, and Gi
 
 ## Getting started
 
-### Alternative installation (pipx)
+- [Installation instructions →](https://httpie.io/docs#installation)
+- [Full documentation →](https://httpie.io/docs)
 
-For isolated installations, you can use pipx:
+## Installation (alternative methods)
+
+
+### pipx (recommended for isolated Python CLI tools)
+
+pipx provides isolated environments for Python CLI applications:
 
 ```bash
 pip install pipx
 pipx install httpie
 ```
-
-- [Installation instructions →](https://httpie.io/docs#installation)
-- [Full documentation →](https://httpie.io/docs)
-
-
-
 ## Features
 
 - Expressive and intuitive syntax
