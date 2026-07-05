@@ -66,6 +66,7 @@ pipx provides isolated environments for Python CLI applications:
 pip install pipx
 pipx install httpie
 ```
+
 ## Features
 
 - Expressive and intuitive syntax
