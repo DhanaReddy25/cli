@@ -52,8 +52,19 @@ Please note we recently accidentally made this repo private for a moment, and Gi
 
 ## Getting started
 
+### Alternative installation (pipx)
+
+For isolated installations, you can use pipx:
+
+```bash
+pip install pipx
+pipx install httpie
+```
+
 - [Installation instructions →](https://httpie.io/docs#installation)
 - [Full documentation →](https://httpie.io/docs)
+
+
 
 ## Features
 
